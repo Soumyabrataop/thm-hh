@@ -54,9 +54,7 @@ This task only requires clicking the **Completed** button to proceed.
 
 An attachment is provided with the room. The downloaded ZIP archive contains a single image:
 
-```
 ![The Brochure](/assets/thebrochure.png)
-```
 
 ---
 
