@@ -42,7 +42,7 @@ Special thanks to the **TryHackMe Discord community** (https://discord.gg/tryhac
 
 ## Overview
 
-![Task 1](https://cdn-images.tryhackme.com/user-uploads/5dbea226085ab6182a2ee0f7/room-content/5dbea226085ab6182a2ee0f7-1784111354645.png)
+![Task 1](https://cdn-images.tryhackme.com/user-uploads/5dbea226085ab6182a2ee0f7/room-content/5dbea226085ab6182a2ee0f7-1784202210123.png)
 
 This task only requires clicking the **Completed** button.
 
